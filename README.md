@@ -6,3 +6,5 @@ there is 4 structure's to build a base structure :
 - column
 - tires
 - box
+---------------
+used Morphological analysis for choosing the best building parts
